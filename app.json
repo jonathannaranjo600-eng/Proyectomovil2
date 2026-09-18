@@ -1,17 +1,18 @@
 {
   "expo": {
-    "name": "PROYECTO2_JONATHAN_NARANJO",
-    "slug": "PROYECTO2_JONATHAN_NARANJO",
+    "name": "Explorador de Películas",
+    "slug": "explorador-de-peliculas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1021",
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0F1021",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
